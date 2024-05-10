@@ -1,0 +1,14 @@
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\bin\Debug\net8.0\Atividade.exe
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\bin\Debug\net8.0\Atividade.deps.json
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\bin\Debug\net8.0\Atividade.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\bin\Debug\net8.0\Atividade.pdb
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\Atividade.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\Atividade.pdb
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+D:\Cursos\Senai\FullStack\C-SHARP\Atividade\obj\Debug\net8.0\ref\Atividade.dll
